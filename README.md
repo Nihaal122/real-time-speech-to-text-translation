@@ -158,6 +158,3 @@ This project is open-source and intended for educational and portfolio use.
 GitHub: https://github.com/Nihaal122  
 
 ---
-
-## 📌 Resume Description 
-> Developed a real-time speech-to-text and translation web application using Python and Streamlit, integrating live speech recognition and English–Hindi translation in an end-to-end AI pipeline.
