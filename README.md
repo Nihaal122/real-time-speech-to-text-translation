@@ -5,7 +5,10 @@ A professional Streamlit-based web application that converts live speech into te
 This project demonstrates an end-to-end **speech processing and NLP pipeline**, making it suitable for AI/ML, Data Science, and Software Engineering portfolios.
 
 ---
-https://ibb.co/chQnjpq1
+## 🖼️ Application Preview
+
+![Application Preview](app_demo.png)
+
 ## 🚀 Key Features
 
 - 🎤 Live speech-to-text conversion using microphone input  
