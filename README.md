@@ -5,7 +5,7 @@ A professional Streamlit-based web application that converts live speech into te
 This project demonstrates an end-to-end **speech processing and NLP pipeline**, making it suitable for AI/ML, Data Science, and Software Engineering portfolios.
 
 ---
-
+https://ibb.co/chQnjpq1
 ## 🚀 Key Features
 
 - 🎤 Live speech-to-text conversion using microphone input  
@@ -156,6 +156,5 @@ GitHub: https://github.com/Nihaal122
 
 ---
 
-## 📌 Resume Description (Copy-Paste)
-
+## 📌 Resume Description 
 > Developed a real-time speech-to-text and translation web application using Python and Streamlit, integrating live speech recognition and English–Hindi translation in an end-to-end AI pipeline.
